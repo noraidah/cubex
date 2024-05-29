@@ -62,6 +62,11 @@ const products = ref([
     name: 'Apple',
     price: 1.99,
   },
+  {
+    id: 6,
+    name: 'Barang bagus',
+    price: 99.99,
+  },
 ]);
 </script>
 
